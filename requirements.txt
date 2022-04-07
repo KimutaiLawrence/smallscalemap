@@ -1,0 +1,9 @@
+voila==0.3.0
+geemap
+leafmap
+geopandas
+folium
+descartes
+rasterio
+pandas
+sqlalchemy
